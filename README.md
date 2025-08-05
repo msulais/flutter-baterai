@@ -21,7 +21,7 @@
 ![build version](https://img.shields.io/badge/Build%20version-1.0.2-blue?style=for-the-badge)
 ![last update](https://img.shields.io/badge/Last%20update-June%201%2C%202023-yellow?style=for-the-badge)
 
-> Play store link: [Baterai](https://play.google.com/store/apps/details?id=com.redmerah.baterai)
+> Play store link: [Baterai](https://play.google.com/store/apps/details?id=com.redmerah.baterai) (not available anymore)
 
 Baterai is a powerful app that provides real-time information about your Android device's battery. With Baterai, you can track your battery's current, voltage, level, temperature, plugged status, health status, charging status, and technology.
 
